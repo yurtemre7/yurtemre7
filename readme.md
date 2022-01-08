@@ -6,7 +6,7 @@
 
 I am
 - studying computer science at [TU Berlin](https://www.tu.berlin/)
-- working at [Appmelder](https://www.appmelder.de/) as the lead frontend developer
+- working at [Letzte Werbung](https://www.letzte-werbung.de/) as the lead frontend developer
 - making my own sideprojects here on GitHub
 
 <br>
