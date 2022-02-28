@@ -19,5 +19,5 @@ My hobbies are:
 
 ## Contact
 
-- My website: [yurtemre.me](https://yurtemre.me) 
+- My website: [yurtemre.me](https://yurtemre.de) 
 - My Telegram: [emredev](https://t.me/emredev)
