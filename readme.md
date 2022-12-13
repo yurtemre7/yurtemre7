@@ -6,7 +6,6 @@
 
 I am
 - studying computer science at [TU Berlin](https://www.tu.berlin/)
-- working at [Letzte Werbung](https://www.letzte-werbung.de/) as the lead frontend developer
 - making my own sideprojects here on GitHub
 
 <br>
