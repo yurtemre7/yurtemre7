@@ -5,7 +5,7 @@
 ## About me
 
 I am
-- studying computer science at [TU Berlin](https://www.tu.berlin/)
+- a bachelor graduate in computer science at [TU Berlin](https://www.tu.berlin/)
 - making my own sideprojects here on GitHub
 
 <br>
@@ -13,6 +13,7 @@ I am
 My hobbies are:
 - basketball 🏀
 - riding the bike 🚴‍♂️
+- playing video games 🎮
 
 <br>
 
