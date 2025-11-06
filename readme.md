@@ -23,7 +23,7 @@ My tech knowledge:
 <br>
 
 My hobbies are:
-- walking and biking
+- walking, swimming and hiking
 - bouldering and basketball
 - learning languages and travelling
 
