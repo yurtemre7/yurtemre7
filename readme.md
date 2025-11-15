@@ -24,7 +24,6 @@ My tech knowledge:
 
 My hobbies are:
 - walking, swimming and hiking
-- bouldering and basketball
 - learning languages and travelling
 
 <br>
