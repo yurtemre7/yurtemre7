@@ -1,7 +1,5 @@
 ### Hey to you, you found me!
 
-<br>
-
 ## About me
 
 I am
@@ -9,8 +7,6 @@ I am
 - a Bachelor's graduate in Computer Science at [Technical University Berlin](https://www.tu.berlin/)
 - making my own sideprojects here on GitHub
 - growing in my career and my profession
-
-<br>
 
 My tech knowledge:
 1. Flutter + Dart
@@ -20,13 +16,9 @@ My tech knowledge:
 5. PHP
 6. OpenAI API, Microsoft Azure, GitHub Copilot
 
-<br>
-
 My hobbies are:
 - walking, swimming and hiking
 - learning languages and travelling
-
-<br>
 
 ## Contact
 Feel free to say "hi" to me! I'm open to every request about my work or stuff in general!
