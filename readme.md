@@ -25,3 +25,5 @@ Feel free to say "hi" to me! I'm open to every request about my work or stuff in
 
 - My website: [yurtemre.de](https://www.yurtemre.de) 
 - My Telegram: [emredev](https://t.me/emredev)
+
+![](https://komarev.com/ghpvc/?username=yurtemre7&color=green)
